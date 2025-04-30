@@ -18,4 +18,4 @@ On [GitHub Pages](https://derektypist.github.io/fcc-forum-leaderboard) at the ma
 
 ### Acknowledgements
 
-[FreeCodeCamp](https://www.freecodecamp.org)
+- [FreeCodeCamp](https://www.freecodecamp.org)
